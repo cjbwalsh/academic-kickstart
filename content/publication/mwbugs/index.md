@@ -2,11 +2,11 @@
 title: "Melbourne Water Macroinvertebrate Database"
 authors:
 - admin
-date: "2020-04-05"
+date: "2020-04-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-05"
+publishDate: "2020-04-02"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- mwstr
+- bugDataEntry, mwstr
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

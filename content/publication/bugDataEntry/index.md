@@ -1,12 +1,12 @@
 ---
-title: "Melbourne Water Stream Network"
+title: "Biota data-entry form for the Melbourne Water Macroinvertebrate Database"
 authors:
 - admin
-date: "2020-04-01"
+date: "2020-04-03"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01"
+publishDate: "2020-04-03"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,27 +15,22 @@ publishDate: "2020-04-01"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Kunapo, J., Walsh, C.J., Sammonds, M.J. (2019) The Melbourne Water Stream Network. Version 1.0. Melbourne Waterway Research-Practice Partnership Report 19.4. School of Ecosystem and Forest Sciences, The University of Melbourne, Melbourne. https://tools.thewerg.unimelb.edu.au/mwstr/
+publication: Data entry form for the biota table of the Melbourne Water macroinvertebrate database.  https://tools.thewerg.unimelb.edu.au/bugDataEntry/
 # publication_short: In *STC*
 
 # Summary
-summary: The Melbourne Water Stream Network represents the flow paths and catchments of the streams and rivers of the Greater Melbourne Region (the region managed by Melbourne Water). The Network is an up-to-date and accurate spatial dataset that includes small headwater streams missing from earlier stream data.
+summary: A web-form for entering macroinvertebrate data by taxon name to retrieve correct names and taxon codes, and to format and download the data ready for import into the Melbourne Water macroinvertebrate database.  
 
 tags:
 featured: false
 
 links:
 - name: Use the app
-  url: https://tools.thewerg.unimelb.edu.au/mwstr/
-- name: manual (html)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.html
-- name: manual (pdf)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.pdf
-- name: manual (docx)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.docx
-- name: manual (RMarkdown)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.Rmd
-# url_code: '#'
+  url: https://tools.thewerg.unimelb.edu.au/bugDataEntry/
+- name: manual (see 'Table biota') (html)
+  url: https://tools.thewerg.unimelb.edu.au/documents/MWbugDatabaseReport_2020.html
+- name: Database taxonomy tables (xlsx)
+  url: https://tools.thewerg.unimelb.edu.au/data/mwbugs/mwbugs_taxonomy_tables.xlsx
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: '#'
@@ -56,7 +51,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- mwbugs
+- mwbugs, mwstr
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Please let us know if you find a problem in one of our apps, or have any feedback or suggestions for improvement."
+subtitle = "Please let us know if you find a problem in any of our apps, or have any feedback or suggestions for improvement."
 
 # Automatically link email and phone?
 autolink = true
