@@ -1,12 +1,12 @@
 ---
-title: "Melbourne Water Stream Network"
+title: "LUMaR calculator: using bugs to assess stream health"
 authors:
 - admin
-date: "2020-04-01"
+date: "2020-05-14"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01"
+publishDate: "2020-05-14"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,26 +15,25 @@ publishDate: "2020-04-01"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Kunapo, J., Walsh, C.J., Sammonds, M.J. (2019) The Melbourne Water Stream Network. Version 1.0. Melbourne Waterway Research-Practice Partnership Report 19.4. School of Ecosystem and Forest Sciences, The University of Melbourne, Melbourne. https://tools.thewerg.unimelb.edu.au/mwstr/
+publication: Walsh, C. J., & Webb, J. A. (2013). Predicting stream macroinvertebrate assemblage composition as a function of land use, physiography and climate: a guide for strategic planning for river and water management in the Melbourne Water region. (Melbourne Waterway Research-Practice Partnership Technical Report 13-1).  
+
 # publication_short: In *STC*
 
 # Summary
-summary: The Melbourne Water Stream Network represents the flow paths and catchments of the streams and rivers of the Greater Melbourne Region (the region managed by Melbourne Water). The Network is an up-to-date and accurate spatial dataset that includes small headwater streams missing from earlier stream data.
+summary: This app allows you to upload your own macroinvertebrate data (from the Melbourne region) to calculate LUMaR score, a new indicator of stream condition, developed by Walsh and Webb (2013), that provides improved, consistent assessment of urban and forest-loss impacts across the Melbourne region. It is linked to an unofficial R package, melbstreambiota, which allows LUMaR calculation in R.
 
 tags:
 featured: false
 
 links:
 - name: Use the app
-  url: https://tools.thewerg.unimelb.edu.au/mwstr/
-- name: manual (html)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.html
-- name: manual (pdf)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.pdf
-- name: manual (docx)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.docx
-- name: manual (RMarkdown)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.Rmd
+  url: https://tools.thewerg.unimelb.edu.au/LUMaR/
+- name: Report summary
+  url: https://thewerg.files.wordpress.com/2013/07/walsh_webb_mw_report_final_outline.pdf
+- name: package manual (pdf)
+  url: https://tools.thewerg.unimelb.edu.au/documents/melbstreambiota.pdf
+- name: package vignette (pdf)
+  url: https://tools.thewerg.unimelb.edu.au/documents/melbstreambiota_vignette.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -56,7 +55,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- mwbugs
+- LUMaR
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -65,3 +64,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
