@@ -28,13 +28,13 @@ links:
 - name: Use the app
   url: https://tools.thewerg.unimelb.edu.au/mwstr/
 - name: manual (html)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.html
+  url: https://tools.thewerg.unimelb.edu.au/documents/mwstr/MWStreamNetworkManual.html
 - name: manual (pdf)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.pdf
+  url: https://tools.thewerg.unimelb.edu.au/documents/mwstr/MWStreamNetworkManual.pdf
 - name: manual (docx)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.docx
+  url: https://tools.thewerg.unimelb.edu.au/documents/mwstr/MWStreamNetworkManual.docx
 - name: manual (RMarkdown)
-  url: https://tools.thewerg.unimelb.edu.au/documents/MWStreamNetworkManual.Rmd
+  url: https://tools.thewerg.unimelb.edu.au/documents/mwstr/MWStreamNetworkManual.Rmd
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

@@ -15,7 +15,7 @@ publishDate: "2020-05-14"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Walsh, C. J., & Webb, J. A. (2013). Predicting stream macroinvertebrate assemblage composition as a function of land use, physiography and climate: a guide for strategic planning for river and water management in the Melbourne Water region. (Melbourne Waterway Research-Practice Partnership Technical Report 13-1).  
+publication: Walsh, C.J. and Webb, J.A. (2013). Predicting stream macroinvertebrate assemblage composition as a function of land use, physiography and climate --- a guide for strategic planning for ruver and water management in the Melbourne Water region. Melbourne Waterway Research-Practice Partnership Technical Report 13-1.
 
 # publication_short: In *STC*
 
